@@ -1,4 +1,11 @@
-# 💤 LazyVim
+# 💤 Greg's LazyVim Config
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+I stole the starter template from [LazyVim](https://github.com/LazyVim/LazyVim).
+
+
+# Requirements that I remember
+
+* fdfind
+* grep
+* pyenv 3?
+
